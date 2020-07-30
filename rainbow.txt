@@ -6,6 +6,7 @@ violet
 white
 unicorn
 orange
+brown
 red 
 pink
 are the color of rainbow and unicorn and ponies
