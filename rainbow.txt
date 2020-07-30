@@ -3,6 +3,7 @@ blue
 yellow
 green
 violet
+white
 unicorn
 orange
 red 
